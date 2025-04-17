@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6UzGMfPCDDs" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Media Digital Peluang Majemuk</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">DIbuat oleh kelompok 6A
+Media Digital Asesmen Pembelajaran Matematika
+Berisi materi peluang majemuk dua kejadian saling bebas dan tidak saling bebas.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Media_Digital_Peluang_Majemuk_ORG">
+    <organization identifier="Media_Digital_Peluang_Majemuk_ORG">
+      <title>Media Digital Peluang Majemuk</title>
+      <item identifier="Media_Digital_Peluang_Majemuk_Bebas_dan_Tidak_Saling_Bebas_SCO" isvisible="true" identifierref="__6UzGMfPCDDs_RES">
+        <title>Media Digital Peluang Majemuk</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6UzGMfPCDDs_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6UOQnENRjJX.png" />
+      <file href="mobile/6dCKD3G5OQS.png" />
+      <file href="mobile/6dTiMgs1BVv_P_1529_-2_303_109.png" />
+      <file href="mobile/5njhQqZX3lW_P_150_0_512_488.png" />
+      <file href="mobile/5ZeZMm6fzCm_P_63_0_494_448.png" />
+      <file href="mobile/68fIX62TPEN_P_113_0_470_439.png" />
+      <file href="mobile/5qsWYQvyijr_P_608_164_760_736.png" />
+      <file href="mobile/5h8rEjyUS9c.png" />
+      <file href="mobile/5cJ7S5NWIcS.png" />
+      <file href="mobile/5a31KDX9pFz.png" />
+      <file href="mobile/5nRjsLMhckA.png" />
+      <file href="mobile/67mY4ij9YNe.png" />
+      <file href="mobile/5hEGS7vEgQV.png" />
+      <file href="mobile/5q6LTU89v5x.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6KqGc79LfHP.jpg" />
+      <file href="mobile/Slide5VSnqrOsVb0.jpg" />
+      <file href="mobile/Slide6p14hL92PiD.jpg" />
+      <file href="mobile/Slide5piHnyMINnL.jpg" />
+      <file href="mobile/Slide6qmbh4bmolp.jpg" />
+      <file href="mobile/Slide6IS81iySX82.jpg" />
+      <file href="mobile/Slide6ZhFe5wccjP.jpg" />
+      <file href="mobile/Slide6qISRCHYFxx.jpg" />
+      <file href="mobile/Slide6cd5Aq1pHiR.jpg" />
+      <file href="mobile/Slide6SchUIa1C10.jpg" />
+      <file href="mobile/Slide5mxkrJAXNu3.jpg" />
+      <file href="mobile/Slide6H0uPzHBYsI.jpg" />
+      <file href="mobile/Slide5VatqPGyCKq.jpg" />
+      <file href="mobile/Slide5ubHWgUOl1w.jpg" />
+      <file href="mobile/Slide67YYkdPuIAL.jpg" />
+      <file href="mobile/Slide5igL54qQbeM.jpg" />
+      <file href="mobile/Slide5fJabsom5mo.jpg" />
+      <file href="mobile/Slide61lXxTEuwfj.jpg" />
+      <file href="mobile/Slide6Z6o61CkgRw.jpg" />
+      <file href="mobile/Slide6YvzrR6vJpO.jpg" />
+      <file href="mobile/Slide5gxEq3Sxp2W.jpg" />
+      <file href="mobile/Slide5agNNkKuaKZ.jpg" />
+      <file href="mobile/Slide6ZMfatS8GVS.jpg" />
+      <file href="mobile/Slide6FTs4GkaJ9K.jpg" />
+      <file href="mobile/Slide61yuSst4oUR.jpg" />
+      <file href="mobile/Slide6KVqLoZkzPl.jpg" />
+      <file href="mobile/Slide6r6pRZ0jyL1.jpg" />
+      <file href="mobile/Slide5jHXFVE8k3k.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bvD7OHRIbv.js" />
+      <file href="html5/data/js/5dicO8XhNkL.js" />
+      <file href="html5/data/js/5eZjZGgj14G.js" />
+      <file href="html5/data/js/5fBoysQx3em.js" />
+      <file href="html5/data/js/5jnzBKDYskN.js" />
+      <file href="html5/data/js/5jvCTxxuxn1.js" />
+      <file href="html5/data/js/5uml1Qk8WyA.js" />
+      <file href="html5/data/js/5vAx4qI7Du8.js" />
+      <file href="html5/data/js/63Effsu4FLN.js" />
+      <file href="html5/data/js/66ngzEkeYvZ.js" />
+      <file href="html5/data/js/69dDQWErpb0.js" />
+      <file href="html5/data/js/6BH3zwXYZid.js" />
+      <file href="html5/data/js/6cOAOlqluHh.js" />
+      <file href="html5/data/js/6dryin8bP8V.js" />
+      <file href="html5/data/js/6dTxz4g3zFT.js" />
+      <file href="html5/data/js/6DVptVSMceR.js" />
+      <file href="html5/data/js/6fIsdDzKEVh.js" />
+      <file href="html5/data/js/6h2Xg5nUHCE.js" />
+      <file href="html5/data/js/6h5EUAnxL45.js" />
+      <file href="html5/data/js/6N5STXQl0EC.js" />
+      <file href="html5/data/js/6olp8I9K8wM.js" />
+      <file href="html5/data/js/6or4yO5EszN.js" />
+      <file href="html5/data/js/6p0rG2aR1il.js" />
+      <file href="html5/data/js/6p83DiVChUh.js" />
+      <file href="html5/data/js/6qhO62BJOw2.js" />
+      <file href="html5/data/js/6SjI1IVhK5v.js" />
+      <file href="html5/data/js/6WziaKiaC9z.js" />
+      <file href="html5/data/js/6ZtJmzfUJUe.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
